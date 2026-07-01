@@ -1,0 +1,5 @@
+# Área de trabalho para processamento de reuniões (não versionar)
+_staging/
+
+# macOS
+.DS_Store
