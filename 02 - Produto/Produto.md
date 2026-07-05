@@ -61,3 +61,9 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 
 ## Atualizações — fev/2026
 - 🔁 **MVP reconstruído do zero** (base limpa, em vez de retrabalhar o demo) — [[G030 - Reconstruir o MVP do zero (autonomia técnica de Igor)]] — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+
+## Atualizações — mai–jun/2026
+- **Versão 00 do MVP** congelada após rodar um fluxo completo de plantão — [[G034 - Congelar o MVP na Versão 00 (fluxo completo de plantão)]] — origem [[2026-05-04 - Desenvolvimento do MVP: Versão 00 (Vitor, Igor)]].
+- 🚀 **MVP V0 lançado ao grupo alfa** (~4–5 médicos, sob NDA), limite 29/06/2026; funções de **equipe adiadas** ("em construção") — [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+- Detalhes V00: OCR por câmera em tempo real; aba de cirurgias; pendências em texto livre; visibilidade pública no workspace — origem [[2026-05-04 - Desenvolvimento do MVP: Versão 00 (Vitor, Igor)]].
+- Motor orgânico: botão **"Painel Handoff"** (resumos padronizados para WhatsApp da equipe) — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].

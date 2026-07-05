@@ -54,3 +54,8 @@ atualizado: 2026-07-05
 - **Cessão de PI:** sem CNPJ, o código pertence ao dev (Igor); a futura empresa precisará de **contrato de cessão autoral** do código — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
 - **INPI:** registro **misto** (nome + logo + descritivo) aumenta a distintividade; alto volume e demora de até ~2 anos para concessão — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
 - Confirmar juridicamente o **descarte das imagens** de prontuário (vs. persistir) — impacta arquitetura/custos ([[G031 - Não persistir imagens; armazenar só o texto extraído (OCR)]]) — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+
+## Atualizações — mai–jun/2026
+- Registro de marca pode ser feito via **CPF** e depois transferido ao CNPJ — a confirmar com Gabriela — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].
+- **Comissão de ética** do hospital **validou** a cópia de dados de pacientes (nome, prontuário, evolução) restrita à equipe que cuida do paciente, sem compartilhamento externo — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- **NDAs** com os médicos testadores antes do V0 — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].

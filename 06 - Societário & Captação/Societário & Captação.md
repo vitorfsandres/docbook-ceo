@@ -62,3 +62,11 @@ atualizado: 2026-07-05
 - **Quórum de 75%** para dissolução — calcular as fatias para evitar bloqueio por minoritários — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
 - Parceria com **"fábrica de software"** (suporte/dev em troca de equity) em avaliação — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
 - **Shoplist**: app B2C irmão; investidor de Taiwan interessado — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].
+
+## Atualizações — mai–jun/2026
+- 🏛️ **Empresa aberta só no nome de Vitor** (Simples Nacional ~8%) — Paulo impedido por ser sócio de empresa em Lucro Presumido (> R$ 4 mi/ano) — [[G037 - Abrir a empresa só no nome de Vitor (Simples Nacional)]] — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].
+- **Termo de Compromisso Pré-Societário** entre fundadores antes do contrato social (custos, garantias, acesso ao código) — reafirma [[G023 - Memorando de entendimento entre fundadores antes da PJ]] — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].
+- **Império**: parceria estratégica com **participação nos resultados**; absorção gradual/sob demanda — [[G036 - Império como parceria estratégica (participação), não prestação de serviço]] — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- Registro de marca via **CPF** (depois transferir ao CNPJ) — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].
+- Terceiros adiados/no radar: **Fernando Nakai**, **André Gadelha**; **Peng** volta como contato de networking/TikTok — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+- **Captação (Taiwan, ~US$ 2M):** adiada até validar o MVP — reafirma o bootstrap ([[G024 - Bootstrap — desenvolver com recursos próprios; não captar agora]]).

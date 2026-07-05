@@ -17,9 +17,9 @@ atualizado: 2026-07-05
 | Elaborar plano de negócios formal (mercado, custos, projeções) | Paulo Busato | — | fazendo | Negócio | [[2025-09-07 - Análise jurídica e de negócios (Mauro, Simone)]] | 2026-02-12 |
 | Elaborar memorando de entendimento entre fundadores (confidencialidade, vesting, titularidade do código) | Vitor, Paulo (c/ jurídico) | — | aberta | Jurídico | [[2025-09-07 - Análise jurídica e de negócios (Mauro, Simone)]] | 2025-11-26 |
 | Enviar ata + protótipo para Igor | Vitor | 2025-09 | feita | Produto | [[2025-09-11 - Apresentação Docbook e parceria (Vitor, Igor)]] | 2025-09-26 |
-| Finalizar documento de requisitos do MVP | Igor | — | aberta | Produto | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2025-10-30 |
+| Finalizar documento de requisitos do MVP | Igor | — | feita | Produto | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2026-06-17 |
 | Experimentos com IA (Cursor) — protótipo demo | Igor | — | feita | Tecnologia | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2025-10-08 |
-| Congelar escopo do MVP (backlog P0–P2 / label "Pós MVP") | Vitor (PO) | — | fazendo | Produto | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2025-12-19 |
+| Congelar escopo do MVP (backlog P0–P2 → Versão 00 → V0) | Vitor (PO) | — | feita | Produto | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2026-06-17 |
 | Avaliar ferramenta de workspace da equipe (Notion/similar, c/ Igor) | Vitor | — | aberta | Operações | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2025-10-22 |
 | Preparar pitch para equipe (TI/jurídico) do investidor | Vitor, Igor | — | feita | Captação | [[2025-09-26 - Arquitetura do MVP e potencial investidor (Vitor, Igor)]] | 2025-10-08 |
 | Pesquisa jurídica: "nome+doença" é hipersensível? nº prontuário/atendimento armazenável? | Anna Gabriela | — | aberta | Jurídico | [[2025-10-01 - Alinhamento LGPD e funcionalidades (Vitor, Igor, Anna Gabriela)]] | 2026-07-05 |
@@ -43,16 +43,27 @@ atualizado: 2026-07-05
 | Descrever requisito "Input Ágil" no board | Vitor | — | feita | Produto | [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]] | 2025-12-19 |
 | Enviar rascunhos de ideias de vendas a Gabriel | Vitor | — | aberta | Negócio | [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]] | 2026-07-05 |
 | Atualizar PDF export (nomes de pacientes, remover QR, ajustar dashboards) | Vitor, Igor | — | aberta | Produto | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-07-05 |
-| Reverter KPIs operacionais para versão básica | Igor | — | aberta | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-07-05 |
-| Implementar "Cadastro Rápido" + lógica de OCR | Igor | — | aberta | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-07-05 |
-| Configurar ambiente de simulação (BD local) | Igor | — | aberta | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-07-05 |
+| Reverter KPIs operacionais para versão básica (equipe adiada no V0) | Igor | — | feita | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-06-17 |
+| Implementar "Cadastro Rápido" + lógica de OCR | Igor | — | fazendo | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-06-17 |
+| Configurar ambiente de simulação (BD local → Firebase) | Igor | — | feita | Tecnologia | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | 2026-05-04 |
 | Contatar Isabela Teles (branding/identidade visual) | Paulo Busato | — | aberta | Marca | [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]] | 2026-07-05 |
 | Analisar plano de marketing (documento) + estudar HyperCube | Vitor, Paulo | — | aberta | Negócio | [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]] | 2026-07-05 |
 | Agendar reunião de fechamento comercial com a Império | Vitor | — | aberta | Negócio | [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]] | 2026-07-05 |
-| Testar fluxo Vibe Kanban → PR | Vitor | — | aberta | Tecnologia | [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]] | 2026-07-05 |
+| Testar fluxo Vibe Kanban → PR | Vitor | — | cancelada | Tecnologia | [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]] | 2026-06-01 |
 | Criar servidor compartilhado do board + templates de PR | Igor | — | aberta | Tecnologia | [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]] | 2026-07-05 |
 | Verificar custos de contas de desenvolvedor (Apple App Store / Google Play) | Igor | — | aberta | Tecnologia | [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]] | 2026-07-05 |
 | Validar parceria com "fábrica de software" (equity vs contratação) | Sócios | — | aberta | Societário | [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]] | 2026-07-05 |
 | Confirmar juridicamente o descarte de imagens de prontuário | Igor, Vitor (c/ jurídico) | — | aberta | Jurídico | [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]] | 2026-07-05 |
 | Enviar materiais + pesquisa de personas à Império | Vitor | — | aberta | Negócio | [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]] | 2026-07-05 |
 | Império: diagnóstico de marketing (45 perguntas), domínios, pasta, acesso V4 | Angelo | — | aberta | Negócio | [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]] | 2026-07-05 |
+| Atualizar repositório + vincular Firebase | Igor | — | feita | Tecnologia | [[2026-05-04 - Desenvolvimento do MVP: Versão 00 (Vitor, Igor)]] | 2026-05-04 |
+| Testar fluxo completo do app (plantão fictício) → validar a Versão 00 | Vitor | — | feita | Produto | [[2026-05-04 - Desenvolvimento do MVP: Versão 00 (Vitor, Igor)]] | 2026-06-17 |
+| Desenhar modelo de colaboração comercial com a Império (participação nos resultados) | Vitor, Paulo, Angelo, Gabriel | — | aberta | Societário | [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]] | 2026-07-05 |
+| Consultar registro de marca via CPF (viabilidade + transferência ao CNPJ) | Paulo (c/ Gabriela) | — | aberta | Jurídico | [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]] | 2026-07-05 |
+| Revisar/corrigir contabilidade da clínica de Vitor (regime tributário) | Vitor | urgente | aberta | Financeiro | [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]] | 2026-07-05 |
+| Estruturar mapa macro de próximas ações (institucional + sistema) | Vitor | — | aberta | Gestão | [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]] | 2026-07-05 |
+| Operar ciclo autônomo de dev (IA → merge → testar no celular) | Vitor | — | fazendo | Tecnologia | [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]] | 2026-06-17 |
+| Importar automações de Vitor (checklists Obsidian, planilhas Apps Script) ao MVP | Vitor | — | aberta | Produto | [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]] | 2026-07-05 |
+| Ajustes finais do V0 (OCR + vínculo relatório cirúrgico ↔ mapa) | Igor (orient. Clarissa/Vitor) | 2026-06-25 | fazendo | Tecnologia | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-06-17 |
+| Lançar o MVP V0 ao grupo alfa (~4–5 médicos) | Vitor | 2026-06-29 | fazendo | Produto | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-06-17 |
+| Assinar NDAs com os médicos testadores | Vitor | — | aberta | Jurídico | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-07-05 |

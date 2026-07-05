@@ -58,3 +58,8 @@ atualizado: 2026-07-05
 - **Não persistir imagens:** OCR extrai o texto e descarta a imagem (só texto no servidor; imagem fica no device) — [[G031 - Não persistir imagens; armazenar só o texto extraído (OCR)]] — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
 - **Custo de infra** ~US$ 25–35/mês até 50k usuários (Supabase/Firebase, sem imagens pesadas) — a_reconferir — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
 - **Suporte técnico híbrido** (IA + humano assíncrono via ticket, SLA 24–48h) — [[G032 - Suporte híbrido (IA + humano assíncrono via ticket)]] — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+
+## Atualizações — mai–jun/2026
+- 🔁 **Claude Code** (conta Max de Vitor) como ambiente primário de dev; **push direto na `main`** na fase MVP (proteção desabilitada); Vibe Kanban vira open-source local — [[G038 - Fluxo de dev com Claude Code; push direto na main no MVP]] — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
+- Firebase para dados; teste no celular via **versão pública** (localhost inviável no aparelho do hospital); Bun/Zig no build — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
+- Lovable montou a base funcional do app em ~9 créditos, apoiado em documentação robusta — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].

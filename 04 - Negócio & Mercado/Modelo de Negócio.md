@@ -63,3 +63,11 @@ atualizado: 2026-07-05
 - **Império como squad in-house** de vendas/growth (Angelo Venturi + Gabriel Bezerra) — [[G033 - Marketing in-house via squad Império (Angelo, Gabriel)]]; bases de ~80k médicos / ~5k cirurgiões; máquina de vendas (MQL→qualificação→closers, G4/V4) — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].
 - **Pagamentos** = custo variável (por transação), não fixo — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
 - Investidor de **Taiwan** interessado no **Shoplist** (app B2C irmão) — a_reconferir — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].
+
+## Atualizações — mai–jun/2026
+- **Foco exclusivo no Docbook**; Shoplist pausado — [[G035 - Foco exclusivo no Docbook; Shoplist pausado]] — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- **Império como parceria estratégica** (participação nos resultados, não serviço); orçamento ref.: setup ~R$ 12k + ~R$ 7,8k/mês (6m) — [[G036 - Império como parceria estratégica (participação), não prestação de serviço]] — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- **Aquisição B2B via networking** (Sim, Primed, SBAIT, OPM) + programa de afiliados; **early adopters = estudantes 5º/6º ano**; base ~54k médicos — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- **Concorrente MDOCTORS** (administra equipes em ~60 serviços hospitalares) — foca na própria empresa (faturamento/custos); **diferencial do Docbook** = proteger médico/paciente — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+- Investidor de **Taiwan** (~US$ 2M no plano otimista) — captar **só após validar o MVP** (valuation/diluição) — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
+- Referência de mercado: **Farmaleaf** (Bob Burnquist) valida a tese de saúde focada no paciente — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].

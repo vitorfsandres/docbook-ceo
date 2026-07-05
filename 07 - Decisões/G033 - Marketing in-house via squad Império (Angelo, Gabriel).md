@@ -20,3 +20,5 @@ atualizado: 2026-07-05
 **Origem:** [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]]
 
 > Modelo exato da parceria (prestação de serviço vs. parceria estratégica com participação) evolui em [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]] — a formalizar. Ver [[Painel]].
+
+> 🔁 **Evoluída por [[G036 - Império como parceria estratégica (participação), não prestação de serviço]]** (19/05/2026): a Império passa a parceira estratégica com participação nos resultados.

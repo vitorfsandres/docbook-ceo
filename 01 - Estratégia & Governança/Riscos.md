@@ -27,3 +27,6 @@ atualizado: 2026-07-05
 | "Penny gap": definição errada do freemium (baixa conversão ou abandono) | Negócio | média | [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]] | aberto |
 | OCR de dados sensíveis exige cautela jurídica/LGPD (mesmo sem armazenamento permanente) | Jurídico/Produto | média | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | aberto |
 | Demora/incerteza do registro no INPI (até ~2 anos) — uso de nome sem garantia jurídica | Jurídico | baixa | [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]] | aberto |
+| Concorrente MDOCTORS (recursos, ~60 serviços hospitalares) copiar/sobrepor o Docbook | Negócio | alta | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
+| Resguardo real dos NDAs frente a empresas de grande porte | Jurídico | média | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
+| Fadiga de decisão / sobrecarga do fundador (Vitor divide tempo com a rotina médica) | Governança | média | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
