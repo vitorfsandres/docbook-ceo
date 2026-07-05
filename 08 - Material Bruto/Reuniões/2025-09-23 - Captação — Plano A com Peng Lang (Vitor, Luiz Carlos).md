@@ -1,6 +1,6 @@
 ---
 tipo: reuniao
-data: 2025-10-01
+data: 2025-09-23
 participantes: [Vitor, Luiz Carlos]
 classe: ata-primaria
 dominios: [Captação, Societário, Negócio]
@@ -9,7 +9,9 @@ criado: 2026-07-05
 atualizado: 2026-07-05
 ---
 
-# 2025-10-01 — Captação: Plano A com Peng Lang (Vitor, Luiz Carlos)
+# 2025-09-23 — Captação: Plano A com Peng Lang (Vitor, Luiz Carlos)
+
+> **Correção de data (2026-07-05):** processada no lote 2 como 2025-10-01 (data do corpo do arquivo avulso), mas a compilação-mestra `2026.md` registra **23/09/2025** (Ter). Adotada a data da mestra; Nota renomeada e wikilinks atualizados. `fonte_drive` mantém o nome do arquivo avulso (10-01) como âncora.
 
 Luiz Carlos estruturou a estratégia de captação, com o **Plano A** focado em Peng Lang (capital + influência de divulgação) e Paulo Herreiro como Plano B. Discutiu-se a participação a oferecer a Peng (20–40%) e a disposição de Luiz Carlos em reduzir a própria cota. Durante a reunião, Vitor ligou para Peng, que demonstrou interesse e agendou conversa com sua equipe técnica — mudando a estratégia em tempo real.
 

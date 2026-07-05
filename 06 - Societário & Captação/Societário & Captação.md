@@ -23,9 +23,9 @@ atualizado: 2026-07-05
 - Modelo de colaboração do investidor (financiador vs sócio vs equipe assume dev) em aberto — ver pendência no [[Painel]].
 
 ## Atualizações — out/2025
-- **Luiz Carlos**: sócio estratégico (co-criador), disposto a reduzir a própria cota para viabilizar a entrada de Peng — origem [[2025-10-01 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]].
+- **Luiz Carlos**: sócio estratégico (co-criador), disposto a reduzir a própria cota para viabilizar a entrada de Peng — origem [[2025-09-23 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]].
 - **Peng Lang**: investidor Plano A (capital + influência de divulgação/TikTok); confirmou interesse em 08/10 e definiu equipes/recursos — [[G010 - Captação Plano A — investidor Peng Lang]].
-- **Paulo Herreiro**: investidor Plano B — origem [[2025-10-01 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]].
+- **Paulo Herreiro**: investidor Plano B — origem [[2025-09-23 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]].
 - Participação sugerida a Peng: **20–40%** (a_reconferir); divisão de share **postergada** até a definição do envolvimento de Peng — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].
 - Direção: **constituir empresa de tecnologia** — [[G013 - Constituir o projeto como empresa de tecnologia]] (supera postergar-PJ). Timing/formato/cap table **pendentes**.
 - **Papel de Peng** (investidor vs sócio ativo vs apoiador) indefinido; custos fixos da nova empresa (PJ, domínio, workspace) a atribuir — origem [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]] — ver [[Painel]].
@@ -55,3 +55,10 @@ atualizado: 2026-07-05
 - **Gabriel Bezerra** entra como consultor de marketing/growth (sob NDA) — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]].
 - **Acordo de Sócios** em estudo (Paulo) — base para regras de saída/valuation; reunião com a advogada Gabriela depois — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
 - Contatos: **Isabela Teles (Bit Design)** para branding; **Gustavo Bernardinho** para vendas — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+
+## Atualizações — fev/2026
+- **Angelo Venturi** entra (sócio de Gabriel; marca **"Império"**) — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].
+- Formalização: **Acordo de Sócios e CNPJ só após o mapeamento financeiro**; reafirma o bootstrap — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+- **Quórum de 75%** para dissolução — calcular as fatias para evitar bloqueio por minoritários — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+- Parceria com **"fábrica de software"** (suporte/dev em troca de equity) em avaliação — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+- **Shoplist**: app B2C irmão; investidor de Taiwan interessado — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].

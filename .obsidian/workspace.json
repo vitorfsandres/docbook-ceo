@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "85f5eebe2d7a6f22",
+    "type": "split",
+    "children": [
+      {
+        "id": "793f5a5a6a8387b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "14050ab39f62d590",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Visualização em gráfico"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97c60956119b1c77",
+    "type": "split",
+    "children": [
+      {
+        "id": "dc7d377338d67ce1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0443ed9edc13c21f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de arquivos"
+            }
+          },
+          {
+            "id": "5f2d344ef011503d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Procurar"
+            }
+          },
+          {
+            "id": "11c7574c89ff4258",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e258a642dd23fdfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "1144349a19d80897",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "73c990d0533f5da3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Links inversos"
+            }
+          },
+          {
+            "id": "da8e529ff7a2d227",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Links de saída"
+            }
+          },
+          {
+            "id": "f816ce586fe91251",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "93b6906b953a87e7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas as propriedades"
+            }
+          },
+          {
+            "id": "8f4ac43116d61d08",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Sumário"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Criar nova base": false
+    }
+  },
+  "active": "14050ab39f62d590",
+  "lastOpenFiles": [
+    "08 - Material Bruto/Reuniões/2025-09-23 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos).md",
+    "08 - Material Bruto/Reuniões/2026-03 a 04 - Lacuna (mar–abr, sem registro).md",
+    "08 - Material Bruto/Reuniões/2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor).md",
+    "08 - Material Bruto/Reuniões/2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor).md",
+    "08 - Material Bruto/Reuniões/2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela).md",
+    "07 - Decisões/G033 - Marketing in-house via squad Império (Angelo, Gabriel).md",
+    "07 - Decisões/G032 - Suporte híbrido (IA + humano assíncrono via ticket).md",
+    "07 - Decisões/G031 - Não persistir imagens; armazenar só o texto extraído (OCR).md",
+    "07 - Decisões/G030 - Reconstruir o MVP do zero (autonomia técnica de Igor).md",
+    "04 - Negócio & Mercado/Modelo de Negócio.md",
+    "_staging/reunioes/atas-md/2025-10-30 - Ata - Planejamento do MVP Docbook e Negociação com Investidor - Vitor, Igor.md",
+    "08 - Material Bruto/Reuniões/2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor).md",
+    "00 - Painel/Tarefas.md",
+    "07 - Decisões/G005 - Sociedade Vitor e Igor.md",
+    "08 - Material Bruto/Reuniões/2025-09-11 - Apresentação Docbook e parceria (Vitor, Igor).md",
+    "00 - Painel/Painel.md",
+    "08 - Material Bruto/Reuniões/2025-10-08 - Apresentação a Peng e formação das equipes (investidor).md"
+  ]
+}

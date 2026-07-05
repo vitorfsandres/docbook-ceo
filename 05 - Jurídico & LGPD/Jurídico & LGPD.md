@@ -49,3 +49,8 @@ atualizado: 2026-07-05
 - **Registro duplo de marcas** (Docbook + Evolumed) no INPI (~R$ 800) — [[G027 - Registrar ambas as marcas (Docbook + Evolumed) no INPI]] — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
 - **Acordo de Sócios** (regras de saída, valuation, comportamento dos sócios) — distinto do contrato social; Paulo estudando antes de acionar a advogada — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
 - **OCR de dados sensíveis** exige revisão contratual/jurídica (Anna Gabriela), mesmo sem armazenamento permanente — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+
+## Atualizações — fev/2026
+- **Cessão de PI:** sem CNPJ, o código pertence ao dev (Igor); a futura empresa precisará de **contrato de cessão autoral** do código — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+- **INPI:** registro **misto** (nome + logo + descritivo) aumenta a distintividade; alto volume e demora de até ~2 anos para concessão — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+- Confirmar juridicamente o **descarte das imagens** de prontuário (vs. persistir) — impacta arquitetura/custos ([[G031 - Não persistir imagens; armazenar só o texto extraído (OCR)]]) — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].

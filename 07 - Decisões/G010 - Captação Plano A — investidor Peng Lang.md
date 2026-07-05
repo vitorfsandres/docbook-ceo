@@ -4,7 +4,7 @@ codigo: G010
 status: superada
 dominio: Captação
 requer_aval_humano: sim
-origem: "[[2025-10-01 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]]"
+origem: "[[2025-09-23 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]]"
 supera:
 superada_por: G024
 criado: 2026-07-05
@@ -17,7 +17,7 @@ atualizado: 2026-07-05
 
 **Racional:** Um investidor de grande porte pode acelerar o projeto (talentos, marketing de influência) e já possui equipes de TI e jurídico.
 
-**Origem:** [[2025-10-01 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]] · Peng confirmou interesse na apresentação de [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]]
+**Origem:** [[2025-09-23 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]] · Peng confirmou interesse na apresentação de [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]]
 
 > ⚠️ **Aval humano (finanças/societário):** termos de investimento e diluição societária precisam de validação qualificada. Papel exato de Peng (investidor vs sócio vs apoiador) em aberto — ver [[Painel]].
 

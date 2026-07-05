@@ -58,3 +58,8 @@ atualizado: 2026-07-05
 - **ICP:** cirurgiões hospitalares, plantonistas, estudantes — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
 - **Tracking:** API de Conversão, UTMs, Single Source of Truth; tráfego pago em ciclos de teste; CRM/playbook comercial — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
 - Advisors: **Gabriel Bezerra** (marketing/growth), **Isabela Teles** (Bit Design, branding) — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]], [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+
+## Atualizações — fev/2026
+- **Império como squad in-house** de vendas/growth (Angelo Venturi + Gabriel Bezerra) — [[G033 - Marketing in-house via squad Império (Angelo, Gabriel)]]; bases de ~80k médicos / ~5k cirurgiões; máquina de vendas (MQL→qualificação→closers, G4/V4) — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].
+- **Pagamentos** = custo variável (por transação), não fixo — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+- Investidor de **Taiwan** interessado no **Shoplist** (app B2C irmão) — a_reconferir — origem [[2026-02-23 - Apresentação a Angelo (Império) e growth (Angelo, Gabriel, Vitor)]].

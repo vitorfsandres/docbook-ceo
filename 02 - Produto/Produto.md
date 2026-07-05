@@ -58,3 +58,6 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - **Terminologia:** erros/dados incompletos = "Inconsistências"/"Notificações" (não "Pendências") — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
 - **OCR** reafirmado como maior diferencial ("bloco de notas refinado") — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
 - ⚠️ **Pós-op = wedge de marketing** ([[G028 - Plano de marketing e growth (HyperCube); pós-op como wedge]]) embora a interação do paciente esteja no Pós-MVP — tensão a observar — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
+
+## Atualizações — fev/2026
+- 🔁 **MVP reconstruído do zero** (base limpa, em vez de retrabalhar o demo) — [[G030 - Reconstruir o MVP do zero (autonomia técnica de Igor)]] — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].

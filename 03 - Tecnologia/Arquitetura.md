@@ -52,3 +52,9 @@ atualizado: 2026-07-05
 - **Cadastro Rápido + OCR**; ambiente de simulação com BD local — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
 - **Vibe Kanban + IA** (Codex/GPT p/ Vitor; Claude/Cursor p/ Igor) automatiza código→PR — [[G029 - Vibe Kanban + IA no fluxo de desenvolvimento]] — origem [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]].
 - **Fluxo git:** merges na `main` por ora → depois `dev`/`production` (produção restrita a Igor); **Firebase Preview Channels** por PR; servidor compartilhado do board a criar — origem [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]].
+
+## Atualizações — fev/2026
+- 🔁 **Reconstruir o MVP do zero** (autonomia de Igor; 1,5–3 meses) — [[G030 - Reconstruir o MVP do zero (autonomia técnica de Igor)]] — origem [[2026-02-05 - Acordo de sócios e estratégia de formalização (Vitor, Paulo, Anna Gabriela)]].
+- **Não persistir imagens:** OCR extrai o texto e descarta a imagem (só texto no servidor; imagem fica no device) — [[G031 - Não persistir imagens; armazenar só o texto extraído (OCR)]] — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+- **Custo de infra** ~US$ 25–35/mês até 50k usuários (Supabase/Firebase, sem imagens pesadas) — a_reconferir — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
+- **Suporte técnico híbrido** (IA + humano assíncrono via ticket, SLA 24–48h) — [[G032 - Suporte híbrido (IA + humano assíncrono via ticket)]] — origem [[2026-02-12 - Custos, suporte e escala do MVP (Igor, Paulo, Vitor)]].
