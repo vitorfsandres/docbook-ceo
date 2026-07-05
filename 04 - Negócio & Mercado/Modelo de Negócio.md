@@ -28,3 +28,13 @@ atualizado: 2026-07-05
 - Mercado potencial de **milhões de médicos**; uma rede de convênios demonstrou interesse — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
 - **Time-to-market** crítico (concorrência pode surgir rápido) — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].
 - Posicionamento: ferramenta de **governança/gestão**, não prontuário nem sistema de clínicas — confirmado — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].
+
+## Atualizações — out/2025 (17–30/10)
+- 🔁 **Modelo comercial: 4 planos** (Equipe via Coordenador, Individual, Gratuito, Estudante), **prioridade B2B via Coordenador** — [[G018 - Modelo comercial (4 planos; prioridade B2B via Coordenador)]] supera [[G003 - Go-to-market B2C (assinatura para médicos)]] — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Cliente-chave: Coordenador de Equipe** (privado; atua como CNPJ, contrata a equipe, recebe "pacote" do hospital, pode exigir a ferramenta). No **SUS**, foco no médico individual ou na instituição — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Precificação** (a_reconferir): Equipe ~R$ 500/mês (10 médicos) ou R$ 20–30/médico; Individual R$ 30–50/mês; Plus ~R$ 150/mês (IA); modular por especialidade — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Projeção preliminar:** ~R$ 40 mi/ano (16k assinantes, R$ 200/mês, funil 20%×20%) — a_reconferir — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
+- **Ativo central = dados** ("novo petróleo") para IA e ciência de dados — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Ecossistema (futuro):** módulos por especialidade, versão paciente ("carteira de saúde"), marketplace/ranking ("LinkedIn dos médicos"), IA de transcrição — a_reconferir — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Go-to-market via estudantes/universidades** (planos gratuitos, palestras) — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **Concorrentes:** iClinic (prontuário), Doctoralia (agendamento), apps de nicho — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].

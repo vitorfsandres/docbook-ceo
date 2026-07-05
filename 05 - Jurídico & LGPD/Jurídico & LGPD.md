@@ -31,3 +31,10 @@ atualizado: 2026-07-05
 - Equipe jurídica ampliada: **Dra. Thais** entra com Anna Gabriela (termos de uso, privacidade, consentimento) — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
 - **NDAs assinados** entre os envolvidos — a_reconferir — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].
 - Anna Gabriela também pode cuidar de **registro de marca/patente** — origem [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]].
+
+## Atualizações — out/2025 (17–30/10)
+- Redação dos documentos jurídicos **depende do escopo final do MVP** (quais dados serão coletados) — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+- Base para operar: **Política de Privacidade + Termos e Condições**; ponto-chave = termo em que o **médico se responsabiliza por ter obtido o consentimento** do paciente — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+- Produto considerado **juridicamente viável** por Anna Gabriela — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+- Escopo jurídico de Anna: termos, consentimento, direito empresarial, legal design, contratos, direito digital, PI — origem [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].
+- Equipe jurídica de Peng: **Dra. Thaís** (compliance, advogada do banco de Peng) e **Dra. Sara** (criminalista) — origem [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].

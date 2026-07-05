@@ -33,3 +33,10 @@ atualizado: 2026-07-05
 - Metodologia **híbrida** (Scrum/Kanban adaptado) — origem [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]].
 - Sequência: escopo MVP → requisitos (IA) → validação jurídica → arquitetura — [[G014 - Sequência de trabalho — escopo, requisitos, jurídico, arquitetura]].
 - Protótipo demo (código IA) precisará de reestruturação arquitetural — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+
+## Atualizações — out/2025 (17–30/10)
+- Protótipo sem backend (dados mocados); em **refatoração para arquitetura modular** e definição de interfaces de dados/APIs — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+- Igor **pausa** modificações no protótipo até a categorização do escopo do MVP (P0–P2) — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
+- **Custos de servidor/nuvem/manutenção** a levantar (base para precificação) — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- **NotebookLM (Google)** adotado para transcrição/análise de atas e documentos (opera só sobre as fontes fornecidas, com citações) — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
+- Ferramenta de workspace da equipe (Notion ou similar) a decidir com Igor — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].

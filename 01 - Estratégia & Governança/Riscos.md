@@ -21,3 +21,5 @@ atualizado: 2026-07-05
 | Conflito de visão com a equipe do investidor (escopo/desenvolvimento) | Governança | média | [[2025-10-01 - Captação — Plano A com Peng Lang (Vitor, Luiz Carlos)]] | aberto |
 | Concorrência / time-to-market (mercado de apps médicos evolui rápido) | Negócio | média | [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]] | aberto |
 | Ausência de QA dedicado (testes por médicos) em aplicação médica | Produto/Tecnologia | média | [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]] | aberto |
+| Impasse/diluição societária (50/50 ou perda de controle sob Peng majoritário) | Societário | média | [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]] | aberto |
+| Veracidade dos dados inseridos (manipulação de estatísticas pelos médicos) | Produto/Dados | baixa | [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]] | aberto |

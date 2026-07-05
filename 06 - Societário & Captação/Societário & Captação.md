@@ -30,3 +30,14 @@ atualizado: 2026-07-05
 - Direção: **constituir empresa de tecnologia** — [[G013 - Constituir o projeto como empresa de tecnologia]] (supera postergar-PJ). Timing/formato/cap table **pendentes**.
 - **Papel de Peng** (investidor vs sócio ativo vs apoiador) indefinido; custos fixos da nova empresa (PJ, domínio, workspace) a atribuir — origem [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]] — ver [[Painel]].
 - Novos integrantes: **Emerson** (dev backend) e **Dra. Thais** (jurídico) — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+
+## Atualizações — out/2025 (17–30/10)
+- **Vitor = CEO** do projeto — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
+- 🔁 **Estrutura societária (proposta de Peng):** Peng+Vitor, **Peng majoritário via fundo**; profissionais-chave com salário simbólico + % pequeno; definição do **percentual** é condição primária de Peng — [[G017 - Estrutura societária proposta por Peng (Peng majoritário via fundo)]] — origem [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].
+- **Negociação direta Peng–Vitor**; **Rodrigo Bueno fora** da liderança/sociedade (limitado a vendas) — [[G019 - Negociação direta Peng–Vitor; Rodrigo fora]] supera [[G016 - Rodrigo Bueno na liderança de negócios e vendas]] — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
+- Empresa inicialmente "**100% Peng e Vitor**", % em aberto; guidance: evitar 50/50; criador (Vitor) tende a deter maioria; % de Peng proporcional a investimento/retorno — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
+- **Incubação:** abrigar o projeto em empresa existente / no CNPJ de Peng (Wudipay/PKBank) para acelerar e reduzir burocracia — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
+- **Valor de Peng = know-how/mentoria/contatos > devs** (análise de Igor); ativos: equipe de TI, infra financeira (banco/API de pagamentos), equipe de vendas — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]], [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].
+- **Dilema estratégico:** seguir com Peng vs desenvolvimento orgânico (autonomia/controle) — Paulo e Igor preferem orgânico; Vitor pondera o valor de Peng — ver [[Painel]] — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- ⚠️ **Reformulação:** como Igor/profissionais-chave entram no cap table sob o modelo de Peng revê [[G005 - Sociedade Vitor e Igor]] — CEO/jurídico validar.
+- Equipe ampliada: **Paulo Busato** (admin/estratégia/plano de negócios), **Rodrigo Bueno** (vendas, fora da sociedade), **Dra. Sara** (criminalista) — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].

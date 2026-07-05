@@ -37,3 +37,10 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - Protótipo **demo** atual gerado com IA, sem BD (dados simulados/locais); serve de guia, não de produto final — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
 - Escopo do MVP a ser **congelado a partir do demo** antes de codificar — [[G014 - Sequência de trabalho — escopo, requisitos, jurídico, arquitetura]].
 - Meta: versão funcional até fim de **dez/2025–jan/2026** — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+
+## Atualizações — out/2025 (17–30/10)
+- **Escopo do MVP: perfis Médico e Paciente** (secretária/instrumentador → futuro) — [[G015 - Escopo do MVP nos perfis Médico e Paciente]] — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+- ⚠️ **Escopo em aberto:** incluir o **monitoramento pós-operatório** no MVP? Vitor defende (diferencial validado pelo médico-chefe); Paulo/Igor querem MVP enxuto — ver [[Painel]] — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]], [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
+- **MVP enxuto / time-to-market**; backlog a categorizar em **P0–P1–P2** (Vitor) — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
+- **Validação:** testar o MVP com rede de médicos amigos de confiança antes do lançamento — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+- App pós-op é ferramenta de **triagem**, não diagnóstico (evita reinternações desnecessárias) — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
