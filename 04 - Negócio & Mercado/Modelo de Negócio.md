@@ -3,7 +3,7 @@ tipo: dominio
 dominio: Negócio
 titulo: Modelo de Negócio
 criado: 2026-07-02
-atualizado: 2026-07-02
+atualizado: 2026-07-05
 ---
 
 # Modelo de Negócio
@@ -21,3 +21,10 @@ atualizado: 2026-07-02
 
 ## Pendente
 - Plano de negócios formal (projeções de custo, cenários de retorno) — ver [[Tarefas]].
+
+## Atualizações — out/2025
+- ⚠️ **Tensão B2B vs B2C:** Peng defende venda a **hospitais (B2B)**; fundadores/Igor defendem **médicos (B2C)** primeiro, por simplificar o jurídico. [[G003 - Go-to-market B2C (assinatura para médicos)]] mantém-se; rota a confirmar — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]] — ver [[Painel]].
+- Monetização: Peng mencionou integração a **sistema de pagamento já existente** — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+- Mercado potencial de **milhões de médicos**; uma rede de convênios demonstrou interesse — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+- **Time-to-market** crítico (concorrência pode surgir rápido) — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].
+- Posicionamento: ferramenta de **governança/gestão**, não prontuário nem sistema de clínicas — confirmado — origem [[2025-10-03 - Roteiro pré-reunião Peng (Vitor, Luiz Carlos)]].

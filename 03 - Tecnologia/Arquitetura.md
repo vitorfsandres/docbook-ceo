@@ -3,7 +3,7 @@ tipo: dominio
 dominio: Tecnologia
 titulo: Arquitetura
 criado: 2026-07-02
-atualizado: 2026-07-02
+atualizado: 2026-07-05
 ---
 
 # Arquitetura
@@ -24,3 +24,12 @@ atualizado: 2026-07-02
 - Notificações despriorizadas no MVP (sistema opera sem elas).
 - IA (ex.: Cursor) para gerar protótipos/versões A/B descartáveis, sem comprometer a arquitetura final — confirmado.
 - Segurança: criptografia dos dados sensíveis; papéis controlador (médico) / operador (app) — ver [[Jurídico & LGPD]].
+
+## Atualizações — out/2025
+- **MVP como PWA (web responsiva) primeiro** — [[G012 - MVP como aplicação web responsiva (PWA) primeiro]].
+- ⚠️ **Conflito de infraestrutura:** [[G006 - Arquitetura do MVP]] adotou **Railway** (deploy/armazenamento); em 01/10 discutiu-se delegar a segurança/infra a uma **nuvem robusta (ex.: AWS)**. Ambos registrados até haver decisão explícita — origem [[2025-10-01 - Alinhamento LGPD e funcionalidades (Vitor, Igor, Anna Gabriela)]].
+- App foca em **criptografia em trânsito**; segurança do armazenamento delegada ao provedor de nuvem — origem [[2025-10-01 - Alinhamento LGPD e funcionalidades (Vitor, Igor, Anna Gabriela)]].
+- Estimativas (Emerson, 08/10): front web **R$ 15–20k**; app nativo **R$ 120–130k**; backend **60–90 dias** com 3 pessoas — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
+- Metodologia **híbrida** (Scrum/Kanban adaptado) — origem [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]].
+- Sequência: escopo MVP → requisitos (IA) → validação jurídica → arquitetura — [[G014 - Sequência de trabalho — escopo, requisitos, jurídico, arquitetura]].
+- Protótipo demo (código IA) precisará de reestruturação arquitetural — a_reconferir — origem [[2025-10-08 - Apresentação a Peng e formação das equipes (investidor)]].
