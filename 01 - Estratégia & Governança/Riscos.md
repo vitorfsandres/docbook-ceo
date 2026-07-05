@@ -25,3 +25,4 @@ atualizado: 2026-07-05
 | Veracidade dos dados inseridos (manipulação de estatísticas pelos médicos) | Produto/Dados | baixa | [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]] | aberto |
 | Titularidade do código-fonte sem contrato de cessão (hoje só há NDAs) | Jurídico/Societário | alta | [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]] | aberto |
 | "Penny gap": definição errada do freemium (baixa conversão ou abandono) | Negócio | média | [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]] | aberto |
+| OCR de dados sensíveis exige cautela jurídica/LGPD (mesmo sem armazenamento permanente) | Jurídico/Produto | média | [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] | aberto |

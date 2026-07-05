@@ -50,3 +50,11 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - **Validação:** cirurgião com 20 anos valida a proposta (arquiva tudo manualmente, sem organização/estatísticas) — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
 - **Gestão de escopo no board:** tarefas sem a label **"Pós MVP"** = MVP atual; demais vão ao backlog — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
 - **Validação de campo (17/11):** dores reais de coordenação/comunicação/metas na equipe cirúrgica reforçam o valor do produto — origem [[2025-11-17 - Equipe de Cirurgia Geral — escalas e metas (contexto clínico)]].
+
+## Atualizações — dez/2025–jan/2026
+- **Mobile-first** (UX em listas sanfona) — [[G025 - MVP mobile-first]] — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Escopo enxuto; Pós-MVP:** RBAC, notificações automáticas, **interação do paciente no pós-op** e KPIs complexos postergados — [[G026 - Escopo enxuto do MVP; funcionalidades postergadas para Pós-MVP]] — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Mantido no MVP:** arquivamento automático (por alta), duplicados temporários (merge posterior), PDF simplificado (2 modelos), Cadastro Rápido + OCR — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Terminologia:** erros/dados incompletos = "Inconsistências"/"Notificações" (não "Pendências") — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **OCR** reafirmado como maior diferencial ("bloco de notas refinado") — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- ⚠️ **Pós-op = wedge de marketing** ([[G028 - Plano de marketing e growth (HyperCube); pós-op como wedge]]) embora a interação do paciente esteja no Pós-MVP — tensão a observar — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].

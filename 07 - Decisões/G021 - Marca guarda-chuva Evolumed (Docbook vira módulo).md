@@ -19,4 +19,4 @@ atualizado: 2026-07-05
 
 **Origem:** [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]]
 
-> ⏳ Decisão de marca a ser **revisitada** (estudo comparativo Docbook vs Evolumed em andamento por Paulo) — ver [[Tarefas]] e [[Painel]].
+> ✅ **Confirmada em [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]]**: mantida a arquitetura Evolumed guarda-chuva com Docbook como funcionalidade/conta pessoal. Decidiu-se **registrar ambas as marcas** no INPI — ver [[G027 - Registrar ambas as marcas (Docbook + Evolumed) no INPI]].

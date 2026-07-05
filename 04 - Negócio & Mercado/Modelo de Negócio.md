@@ -49,3 +49,12 @@ atualizado: 2026-07-05
 - 🔁 **Marca guarda-chuva "Evolumed"** (Docbook vira módulo/log pessoal); INPI via nome composto — [[G021 - Marca guarda-chuva Evolumed (Docbook vira módulo)]] — **a revisitar** — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
 - **Validação de campo (17/11):** dores reais de coordenação/escala/metas na equipe cirúrgica confirmam a persona do **Coordenador** — origem [[2025-11-17 - Equipe de Cirurgia Geral — escalas e metas (contexto clínico)]].
 - **Maturidade nula em marketing/vendas** = principal gargalo; capacitação via trilha G4 — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
+
+## Atualizações — dez/2025–jan/2026
+- **Growth "Member get Member":** PDF do plantão com QR Code do Docbook para atrair colegas — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]] (⚠️ QR **removido** do PDF do MVP em [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]] — mecânica adiada).
+- **Monetização por níveis:** base do app + extensões (ex.: pós-op) + personalização de fluxos — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- 🔁 **Marca: registrar ambas** (Docbook + Evolumed) no INPI — [[G027 - Registrar ambas as marcas (Docbook + Evolumed) no INPI]] confirma o guarda-chuva Evolumed ([[G021 - Marca guarda-chuva Evolumed (Docbook vira módulo)]]) — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+- **Plano de marketing/growth (HyperCube, 6 dimensões)** — [[G028 - Plano de marketing e growth (HyperCube); pós-op como wedge]]; **wedge = pós-op**; posicionamento "coordenação clínica e continuidade do cuidado" (nova categoria) — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
+- **ICP:** cirurgiões hospitalares, plantonistas, estudantes — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
+- **Tracking:** API de Conversão, UTMs, Single Source of Truth; tráfego pago em ciclos de teste; CRM/playbook comercial — origem [[2026-01-21 - Plano de marketing e growth — HyperCube (Gabriel, Vitor, Paulo)]].
+- Advisors: **Gabriel Bezerra** (marketing/growth), **Isabela Teles** (Bit Design, branding) — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]], [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].

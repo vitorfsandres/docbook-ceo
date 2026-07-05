@@ -43,3 +43,9 @@ atualizado: 2026-07-05
 - **Memorando de entendimento** entre fundadores antes da PJ — [[G023 - Memorando de entendimento entre fundadores antes da PJ]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
 - ⚠️ **Titularidade do código-fonte** (desenvolvido por Igor) em risco: hoje só há NDAs — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]] — ver [[Riscos]].
 - **Registro de marca no INPI** via nome composto/descritivo ("Docbook, Sistema Médico Pessoal"), sob a marca guarda-chuva Evolumed — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+
+## Atualizações — dez/2025–jan/2026
+- **NDA** assinado com Gabriel Bezerra antes da apresentação — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]].
+- **Registro duplo de marcas** (Docbook + Evolumed) no INPI (~R$ 800) — [[G027 - Registrar ambas as marcas (Docbook + Evolumed) no INPI]] — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+- **Acordo de Sócios** (regras de saída, valuation, comportamento dos sócios) — distinto do contrato social; Paulo estudando antes de acionar a advogada — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+- **OCR de dados sensíveis** exige revisão contratual/jurídica (Anna Gabriela), mesmo sem armazenamento permanente — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].

@@ -45,3 +45,10 @@ atualizado: 2026-07-05
 - **João** designado como ajudante de Igor em demandas operacionais — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
 - Custos de infra (servidor/nuvem/armazenamento/suporte) a levantar com Igor (base de precificação) — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
 - Board/Kanban do MVP gerido por label **"Pós MVP"** (MVP vs backlog); revisão tarefa-a-tarefa do escopo — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
+
+## Atualizações — dez/2025–jan/2026
+- **Mobile-first** (UX em listas sanfona) — [[G025 - MVP mobile-first]] — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Metodologia de tickets:** Casos de Uso + Critérios de Aceitação + "Deep Dive" — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Cadastro Rápido + OCR**; ambiente de simulação com BD local — origem [[2025-12-19 - Refinamento do MVP: mobile-first e escopo (Igor, Vitor)]].
+- **Vibe Kanban + IA** (Codex/GPT p/ Vitor; Claude/Cursor p/ Igor) automatiza código→PR — [[G029 - Vibe Kanban + IA no fluxo de desenvolvimento]] — origem [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]].
+- **Fluxo git:** merges na `main` por ora → depois `dev`/`production` (produção restrita a Igor); **Firebase Preview Channels** por PR; servidor compartilhado do board a criar — origem [[2026-01-22 - Vibe Kanban e automação de dev com IA (Igor, Vitor)]].

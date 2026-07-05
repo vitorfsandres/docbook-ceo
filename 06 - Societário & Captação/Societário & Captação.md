@@ -50,3 +50,8 @@ atualizado: 2026-07-05
 - **Memorando de entendimento** entre fundadores antes da PJ (segurança jurídica/PI) — [[G023 - Memorando de entendimento entre fundadores antes da PJ]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
 - **João** entra como ajudante de dev (Igor) — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
 - Peng havia sugerido abertura só Peng+Vitor (exigindo planejar redistribuição de equity aos demais) — resolvido **por ora** pelo bootstrap + vesting — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+
+## Atualizações — dez/2025–jan/2026
+- **Gabriel Bezerra** entra como consultor de marketing/growth (sob NDA) — origem [[2025-12-10 - Protótipo e estratégia de marketing (Vitor, Gabriel)]].
+- **Acordo de Sócios** em estudo (Paulo) — base para regras de saída/valuation; reunião com a advogada Gabriela depois — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
+- Contatos: **Isabela Teles (Bit Design)** para branding; **Gustavo Bernardinho** para vendas — origem [[2026-01-15 - Marca (Docbook + Evolumed) e acordo de sócios (Paulo, Vitor)]].
