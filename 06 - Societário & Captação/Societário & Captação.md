@@ -41,3 +41,12 @@ atualizado: 2026-07-05
 - **Dilema estratégico:** seguir com Peng vs desenvolvimento orgânico (autonomia/controle) — Paulo e Igor preferem orgânico; Vitor pondera o valor de Peng — ver [[Painel]] — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
 - ⚠️ **Reformulação:** como Igor/profissionais-chave entram no cap table sob o modelo de Peng revê [[G005 - Sociedade Vitor e Igor]] — CEO/jurídico validar.
 - Equipe ampliada: **Paulo Busato** (admin/estratégia/plano de negócios), **Rodrigo Bueno** (vendas, fora da sociedade), **Dra. Sara** (criminalista) — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+
+## Atualizações — nov–dez/2025
+- 🔁 **BOOTSTRAP:** desenvolver com recursos próprios; **não captar investimento agora** — [[G024 - Bootstrap — desenvolver com recursos próprios; não captar agora]] supera o caminho Peng ([[G010 - Captação Plano A — investidor Peng Lang]], [[G017 - Estrutura societária proposta por Peng (Peng majoritário via fundo)]], [[G019 - Negociação direta Peng–Vitor; Rodrigo fora]]). Deferimento reversível — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
+- **Vesting** para sócios/equipe (equity por entregas) — [[G022 - Adoção de plano de vesting para sócios e equipe]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- **Holding/ecossistema "Evolumed"** (módulos Cirurgia, UTI…) — [[G021 - Marca guarda-chuva Evolumed (Docbook vira módulo)]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- **Igor (CTO)** deve ser sócio com participação **mínima ~20%** (vs. sugestão de 1%) — atualiza o cap table e revê [[G005 - Sociedade Vitor e Igor]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- **Memorando de entendimento** entre fundadores antes da PJ (segurança jurídica/PI) — [[G023 - Memorando de entendimento entre fundadores antes da PJ]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- **João** entra como ajudante de dev (Igor) — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
+- Peng havia sugerido abertura só Peng+Vitor (exigindo planejar redistribuição de equity aos demais) — resolvido **por ora** pelo bootstrap + vesting — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].

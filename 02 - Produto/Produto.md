@@ -44,3 +44,9 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - **MVP enxuto / time-to-market**; backlog a categorizar em **P0–P1–P2** (Vitor) — origem [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]].
 - **Validação:** testar o MVP com rede de médicos amigos de confiança antes do lançamento — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
 - App pós-op é ferramenta de **triagem**, não diagnóstico (evita reinternações desnecessárias) — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
+
+## Atualizações — nov–dez/2025
+- **Requisito crítico: input de dados extremamente ágil** (competir com "tirar foto") — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
+- **Validação:** cirurgião com 20 anos valida a proposta (arquiva tudo manualmente, sem organização/estatísticas) — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
+- **Gestão de escopo no board:** tarefas sem a label **"Pós MVP"** = MVP atual; demais vão ao backlog — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].
+- **Validação de campo (17/11):** dores reais de coordenação/comunicação/metas na equipe cirúrgica reforçam o valor do produto — origem [[2025-11-17 - Equipe de Cirurgia Geral — escalas e metas (contexto clínico)]].

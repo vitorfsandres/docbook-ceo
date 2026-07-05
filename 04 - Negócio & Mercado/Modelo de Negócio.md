@@ -38,3 +38,14 @@ atualizado: 2026-07-05
 - **Ecossistema (futuro):** módulos por especialidade, versão paciente ("carteira de saúde"), marketplace/ranking ("LinkedIn dos médicos"), IA de transcrição — a_reconferir — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
 - **Go-to-market via estudantes/universidades** (planos gratuitos, palestras) — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
 - **Concorrentes:** iClinic (prontuário), Doctoralia (agendamento), apps de nicho — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
+
+## Atualizações — nov–dez/2025
+- **Monetização: Pay Per Use + Freemium** — [[G020 - Modelo de monetização (Pay Per Use + Freemium)]] — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- **Dados de mercado** (a_reconferir): ~600k médicos no Brasil, ~350k em hospitais (58%), 6.500 hospitais, 25k coordenadores de plantão, 42k recém-formados/ano; projeção ~790k (5a)/~900k (10a) — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- **Público pagante potencial ~30.723** (adoção 66%, conversão 13,3%); cenários R$ 20/50/100; **realista R$ 50 → ~R$ 27,4 mi/ano em 10 anos** (refina a projeção de ~R$ 40 mi de 22/10) — a_reconferir — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- **Concorrentes (atualizado):** Minhas Cirurgias, Surgeon's Logbook, iClinic, Feegow — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- **Aquisição inicial:** canais de baixo custo (orgânico/boca a boca, micro-influenciadores médicos, congressos, plataformas médicas); **Coordenadores de Plantão como canal-chave** (cada um traz 10–20 médicos) — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- **"Penny gap":** calibrar a fronteira grátis/pago (Vitor: liberar features com limite de quantidade) — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- 🔁 **Marca guarda-chuva "Evolumed"** (Docbook vira módulo/log pessoal); INPI via nome composto — [[G021 - Marca guarda-chuva Evolumed (Docbook vira módulo)]] — **a revisitar** — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- **Validação de campo (17/11):** dores reais de coordenação/escala/metas na equipe cirúrgica confirmam a persona do **Coordenador** — origem [[2025-11-17 - Equipe de Cirurgia Geral — escalas e metas (contexto clínico)]].
+- **Maturidade nula em marketing/vendas** = principal gargalo; capacitação via trilha G4 — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].

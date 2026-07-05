@@ -23,3 +23,5 @@ atualizado: 2026-07-05
 | Ausência de QA dedicado (testes por médicos) em aplicação médica | Produto/Tecnologia | média | [[2025-10-09 - Pós-Peng, planejamento do MVP (Vitor, Igor)]] | aberto |
 | Impasse/diluição societária (50/50 ou perda de controle sob Peng majoritário) | Societário | média | [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]] | aberto |
 | Veracidade dos dados inseridos (manipulação de estatísticas pelos médicos) | Produto/Dados | baixa | [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]] | aberto |
+| Titularidade do código-fonte sem contrato de cessão (hoje só há NDAs) | Jurídico/Societário | alta | [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]] | aberto |
+| "Penny gap": definição errada do freemium (baixa conversão ou abandono) | Negócio | média | [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]] | aberto |

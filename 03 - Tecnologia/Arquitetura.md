@@ -40,3 +40,8 @@ atualizado: 2026-07-05
 - **Custos de servidor/nuvem/manutenção** a levantar (base para precificação) — origem [[2025-10-29 - Análise de mercado e modelo de negócios (Paulo, Vitor)]].
 - **NotebookLM (Google)** adotado para transcrição/análise de atas e documentos (opera só sobre as fontes fornecidas, com citações) — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
 - Ferramenta de workspace da equipe (Notion ou similar) a decidir com Igor — origem [[2025-10-22 - Mapeamento de mercado e escopo do MVP (Paulo, Vitor)]].
+
+## Atualizações — nov–dez/2025
+- **João** designado como ajudante de Igor em demandas operacionais — origem [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]].
+- Custos de infra (servidor/nuvem/armazenamento/suporte) a levantar com Igor (base de precificação) — origem [[2025-11-09 - Apresentação da análise de mercado (Paulo, Vitor)]].
+- Board/Kanban do MVP gerido por label **"Pós MVP"** (MVP vs backlog); revisão tarefa-a-tarefa do escopo — origem [[2025-12-05 - Refinamento do MVP e feedback de médico (Igor, Vitor)]].

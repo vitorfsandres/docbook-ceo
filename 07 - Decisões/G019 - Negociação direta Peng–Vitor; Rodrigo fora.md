@@ -1,12 +1,12 @@
 ---
 tipo: decisao
 codigo: G019
-status: validada
+status: superada
 dominio: Societário
 requer_aval_humano: sim
 origem: "[[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]]"
 supera: G016
-superada_por:
+superada_por: G024
 criado: 2026-07-05
 atualizado: 2026-07-05
 ---
@@ -20,3 +20,5 @@ atualizado: 2026-07-05
 **Origem:** [[2025-10-30 - Planejamento do MVP e negociação com Peng (Vitor, Igor)]] · sinalizado em [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]]
 
 > ⚠️ **Aval humano (societário):** condução da negociação e termos ainda em aberto; proposta formal de investimento/percentual a ser preparada por Vitor.
+
+> 🔁 **SUPERADA por [[G024 - Bootstrap — desenvolver com recursos próprios; não captar agora]]** (reunião [[2025-12-05 - Diagnóstico G4 e decisão de bootstrap (Paulo, Vitor)]]): com o bootstrap, a negociação de investimento com Peng fica suspensa por ora.

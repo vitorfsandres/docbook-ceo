@@ -38,3 +38,8 @@ atualizado: 2026-07-05
 - Produto considerado **juridicamente viável** por Anna Gabriela — origem [[2025-10-17 - Apresentação a novos integrantes e escopo do MVP (Paulo, Rodrigo)]].
 - Escopo jurídico de Anna: termos, consentimento, direito empresarial, legal design, contratos, direito digital, PI — origem [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].
 - Equipe jurídica de Peng: **Dra. Thaís** (compliance, advogada do banco de Peng) e **Dra. Sara** (criminalista) — origem [[2025-10-26 - Modelo de sociedade e investimento (Peng, Vitor)]].
+
+## Atualizações — nov–dez/2025
+- **Memorando de entendimento** entre fundadores antes da PJ — [[G023 - Memorando de entendimento entre fundadores antes da PJ]] — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
+- ⚠️ **Titularidade do código-fonte** (desenvolvido por Igor) em risco: hoje só há NDAs — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]] — ver [[Riscos]].
+- **Registro de marca no INPI** via nome composto/descritivo ("Docbook, Sistema Médico Pessoal"), sob a marca guarda-chuva Evolumed — origem [[2025-11-26 - Marca (Evolumed), INPI e vesting societário (Paulo, Vitor)]].
