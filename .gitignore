@@ -3,3 +3,7 @@ _staging/
 
 # macOS
 .DS_Store
+
+# Obsidian — estado local de UI (layout de painéis, grafo). Config compartilhada fica versionada.
+.obsidian/workspace.json
+.obsidian/graph.json
