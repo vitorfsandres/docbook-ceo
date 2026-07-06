@@ -23,6 +23,7 @@ atualizado: 2026-07-05
 - **"Penny gap"** — calibrar a fronteira grátis/pago do freemium ([[G020 - Modelo de monetização (Pay Per Use + Freemium)]]).
 - **Relação entre as sociedades Eduardo–Vitor (mai/2025) e Vitor–Igor (set/2025)** — Eduardo não reconfirmado; Igor a reenquadrar como **CTO ≥20% sob vesting**. CEO confirmar. Origem: [[2025-05-15 - Brainstorm pós-operatório (Eduardo, Vitor)]].
 - **Links diretos do Drive** das atas processadas ainda pendentes (frontmatter `fonte_drive`) — a completar (ver checklist ao fim do acervo).
+- **Tensão prazo × go-live jurídico:** [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] define lançar o MVP V0 até 29/06/2026, mas o E6 Bloco 7 lista travas jurídicas que **bloqueiam o go-live** (Termo, Política, encarregado LGPD, plano de incidente). Produto pronto ≠ liberado para lançar. Como 29/06 já passou (hoje é 2026-07-06), o CEO deve confirmar: **o lançamento ocorreu? Se sim, com quais travas jurídicas ainda abertas?** Origem: G039 + `/docs` E6 Bloco 7.
 
 ## Marcos / metas
 - 🚀 **MVP V0 em teste alfa** (~4–5 médicos, sob NDA) — lançamento com prazo limite **29/06/2026** ([[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]]). A meta original (dez/2025–jan/2026) escorregou; a "Versão 00" fechou em mai e o V0 saiu em jun/2026.

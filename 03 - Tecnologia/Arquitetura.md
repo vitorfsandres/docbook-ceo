@@ -63,3 +63,11 @@ atualizado: 2026-07-05
 - 🔁 **Claude Code** (conta Max de Vitor) como ambiente primário de dev; **push direto na `main`** na fase MVP (proteção desabilitada); Vibe Kanban vira open-source local — [[G038 - Fluxo de dev com Claude Code; push direto na main no MVP]] — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
 - Firebase para dados; teste no celular via **versão pública** (localhost inviável no aparelho do hospital); Bun/Zig no build — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
 - Lovable montou a base funcional do app em ~9 créditos, apoiado em documentação robusta — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+
+## Documentação do MVP — 17/06/2026 (E6 + D0xx)
+> origem: "Documentação do MVP 17/06 — E6 + D0xx" · detalhe canônico em `/docs` E6 (Blocos 6–7) e decisões D0xx.
+- **Plataforma do MVP = PWA instalável** (nativo reavaliado no Norte) — D032.
+- Captura: **OCR→texto com conferência manual**; o **anexo original é PRESERVADO** (regra de não-destruição) e só descartado **após o desfecho da internação** — D011/D026/D033 (reverte a antiga G031; ver [[G040 - Persistir o anexo original até o desfecho (reverte G031)]]).
+- **Google Drive como destino de exportação = Pós-MVP**; MVP = **download local** — D034.
+- **Criptografia local no PWA é limitada** (risco técnico; stack a definir no build).
+- Detalhe canônico em `/docs` E6 (Blocos 6–7) e decisões D0xx.

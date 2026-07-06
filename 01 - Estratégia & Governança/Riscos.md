@@ -30,3 +30,5 @@ atualizado: 2026-07-05
 | Concorrente MDOCTORS (recursos, ~60 serviços hospitalares) copiar/sobrepor o Docbook | Negócio | alta | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
 | Resguardo real dos NDAs frente a empresas de grande porte | Jurídico | média | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
 | Fadiga de decisão / sobrecarga do fundador (Vitor divide tempo com a rotina médica) | Governança | média | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | aberto |
+| Textos jurídicos de go-live (Termo de Compromisso, Política de Privacidade) ainda não validados por advogado (requer aval jurídico) | Jurídico | Alta (bloqueia go-live) | Doc MVP 17/06 (E6 Bloco 7/9) | aberto |
+| Escopo do MVP cresceu no E6 — risco de prazo/execução (mitigação de produto: faseamento D015 + validação solo antes da equipe D018) | Produto | Média | Doc MVP 17/06 (E6 Bloco 9) | aberto |

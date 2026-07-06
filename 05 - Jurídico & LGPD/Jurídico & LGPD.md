@@ -59,3 +59,16 @@ atualizado: 2026-07-05
 - Registro de marca pode ser feito via **CPF** e depois transferido ao CNPJ — a confirmar com Gabriela — origem [[2026-05-19 - Fundação e estruturação da empresa (Paulo, Vitor)]].
 - **Comissão de ética** do hospital **validou** a cópia de dados de pacientes (nome, prontuário, evolução) restrita à equipe que cuida do paciente, sem compartilhamento externo — origem [[2026-05-19 - Marketing, investimentos e parcerias — Império (Angelo, Gabriel, Paulo, Vitor)]].
 - **NDAs** com os médicos testadores antes do V0 — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+
+## Documentação do MVP — 17/06/2026 (E6 Bloco 7) — ⚠️ requer_aval_humano: sim
+> origem: "Documentação do MVP 17/06 — E6 Bloco 7" · detalhe canônico em `/docs` E6 Bloco 7.
+- **Base legal do MVP = tutela da saúde / exercício da Medicina** (LGPD art. 11, II, "f") — **não** consentimento do paciente.
+- **Médico/equipe = Controlador; DocBook = Operador**, firmado pelo **Termo de Compromisso** no 1º acesso (auditável).
+- O MVP guarda **nome completo** → **segurança técnica é pré-requisito de embarque**.
+- Direitos do titular atendidos via **médico-Controlador**; **eliminação definitiva (hard delete)** restrita ao **admin**, com **dupla confirmação**. Avisos de responsabilidade ao exportar handoff/anexos.
+- **Pendências jurídicas que BLOQUEIAM o go-live (não o desenvolvimento)** — todas exigindo validação de advogado:
+  1. revisão jurídica do **Termo de Compromisso**;
+  2. **Política de Privacidade + Termos de Uso**;
+  3. **canal/encarregado de contato LGPD** do Operador;
+  4. **plano de resposta a incidente**.
+- Detalhe canônico em `/docs` E6 Bloco 7.

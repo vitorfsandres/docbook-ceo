@@ -67,3 +67,11 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - 🚀 **MVP V0 lançado ao grupo alfa** (~4–5 médicos, sob NDA), limite 29/06/2026; funções de **equipe adiadas** ("em construção") — [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
 - Detalhes V00: OCR por câmera em tempo real; aba de cirurgias; pendências em texto livre; visibilidade pública no workspace — origem [[2026-05-04 - Desenvolvimento do MVP: Versão 00 (Vitor, Igor)]].
 - Motor orgânico: botão **"Painel Handoff"** (resumos padronizados para WhatsApp da equipe) — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+
+## Documentação do MVP — 17/06/2026
+> confianca: confirmado · origem: "Documentação do MVP 17/06 (produto)" · detalhe canônico no repo do app (`/docs`), não neste vault.
+- **Escopo do MVP fechado** e **Documento de Requisitos (E6, Blocos 1–10)** concluídos e validados.
+- O MVP é o **cockpit de plantão** da equipe de cirurgia: app mobile, multiusuário entre plantonistas, **offline-first**; captura por foto/PDF + **OCR→texto com conferência manual**; **painel vivo** (rotinas do plantão, pendências, interconsultas, mapa cirúrgico, desfecho, passagem de plantão), **sem substituir o prontuário**.
+- **16 funcionalidades** no MVP v1; **plano de produção em 8 fatias**.
+- Detalhe canônico em `/docs` (E3 Essência, E5 Escopo Fechado, E6 Requisitos, E7 Plano de Produção).
+- ⚠️ **Pendência de nomenclatura:** [[G034 - Congelar o MVP na Versão 00 (fluxo completo de plantão)]] congela "V00" e [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] fala "V0" — alinhar com o Escopo Fechado do E5.
