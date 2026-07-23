@@ -3,7 +3,7 @@ tipo: dominio
 dominio: Produto
 titulo: Produto
 criado: 2026-07-02
-atualizado: 2026-07-05
+atualizado: 2026-07-23
 ---
 
 # Produto
@@ -75,3 +75,8 @@ Aplicativo para equipes médicas cirúrgicas que ataca três dores centrais — 
 - **16 funcionalidades** no MVP v1; **plano de produção em 8 fatias**.
 - Detalhe canônico em `/docs` (E3 Essência, E5 Escopo Fechado, E6 Requisitos, E7 Plano de Produção).
 - ⚠️ **Pendência de nomenclatura:** [[G034 - Congelar o MVP na Versão 00 (fluxo completo de plantão)]] congela "V00" e [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] fala "V0" — alinhar com o Escopo Fechado do E5.
+
+## Atualizações — jul/2026
+- **Captador de áudio flutuante:** botão de microfone em todas as páginas do app para médicos reportarem melhorias/falhas por voz, com a rota da página mapeada — mitiga a resistência ao relato convencional na rotina acelerada — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
+- **Exportação clínica flexível e granular:** o *export* nativo (linha do tempo + anexos) basta — não exige Markdown/Vault; ganha seleção de componentes (só texto / só imagem) — [[G043 - Exportação clínica flexível (export nativo basta, com granularidade)]] — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]]. (No MVP o destino é download local; Google Drive é Pós-MVP — ver [[Arquitetura]].)
+- **Protocolos sugeridos por IA ("protocolos salvadores"):** injetar relatos de eventos críticos reais (ex.: PCRs revertidas, manejo com noradrenalina, acesso venoso central) para a IA gerar protocolos padronizados — considerado de alto valor e impacto imediato; amadurecimento em reunião futura dedicada (ver [[Painel]]) — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].

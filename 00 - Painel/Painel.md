@@ -2,7 +2,7 @@
 tipo: painel
 titulo: Painel
 criado: 2026-07-01
-atualizado: 2026-07-05
+atualizado: 2026-07-23
 ---
 
 # Painel
@@ -23,6 +23,7 @@ atualizado: 2026-07-05
 - **"Penny gap"** — calibrar a fronteira grátis/pago do freemium ([[G020 - Modelo de monetização (Pay Per Use + Freemium)]]).
 - **Relação entre as sociedades Eduardo–Vitor (mai/2025) e Vitor–Igor (set/2025)** — Eduardo não reconfirmado; Igor a reenquadrar como **CTO ≥20% sob vesting**. CEO confirmar. Origem: [[2025-05-15 - Brainstorm pós-operatório (Eduardo, Vitor)]].
 - **Links diretos do Drive** das atas processadas ainda pendentes (frontmatter `fonte_drive`) — a completar (ver checklist ao fim do acervo).
+- **Protocolos sugeridos por IA ("protocolos salvadores")** — usar relatos de eventos clínicos críticos reais para a IA gerar protocolos médicos padronizados; considerado de altíssimo valor. Requer **reunião futura dedicada** ao amadurecimento e implementação. Origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
 - **Tensão prazo × go-live jurídico:** [[G039 - Lançar o MVP V0 até 29-06 (grupo alfa) frente à MDOCTORS]] define lançar o MVP V0 até 29/06/2026, mas o E6 Bloco 7 lista travas jurídicas que **bloqueiam o go-live** (Termo, Política, encarregado LGPD, plano de incidente). Produto pronto ≠ liberado para lançar. Como 29/06 já passou (hoje é 2026-07-06), o CEO deve confirmar: **o lançamento ocorreu? Se sim, com quais travas jurídicas ainda abertas?** Origem: G039 + `/docs` E6 Bloco 7.
 
 ## Marcos / metas
@@ -34,8 +35,8 @@ atualizado: 2026-07-05
 
 | Domínio | Última reunião registrada | Nota |
 |---------|---------------------------|------|
-| Produto | 2026-06-17 | [[Produto]] |
-| Tecnologia | 2026-06-01 | [[Arquitetura]] |
+| Produto | 2026-07-23 | [[Produto]] |
+| Tecnologia | 2026-07-23 | [[Arquitetura]] |
 | Negócio & Mercado | 2026-06-17 | [[Modelo de Negócio]] |
 | Jurídico & LGPD | 2026-05-19 | [[Jurídico & LGPD]] |
 | Societário & Captação | 2026-05-19 | [[Societário & Captação]] |

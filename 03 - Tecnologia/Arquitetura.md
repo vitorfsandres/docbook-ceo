@@ -3,7 +3,7 @@ tipo: dominio
 dominio: Tecnologia
 titulo: Arquitetura
 criado: 2026-07-02
-atualizado: 2026-07-05
+atualizado: 2026-07-23
 ---
 
 # Arquitetura
@@ -63,6 +63,13 @@ atualizado: 2026-07-05
 - 🔁 **Claude Code** (conta Max de Vitor) como ambiente primário de dev; **push direto na `main`** na fase MVP (proteção desabilitada); Vibe Kanban vira open-source local — [[G038 - Fluxo de dev com Claude Code; push direto na main no MVP]] — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
 - Firebase para dados; teste no celular via **versão pública** (localhost inviável no aparelho do hospital); Bun/Zig no build — origem [[2026-06-01 - Fluxo de dev com Claude e GitHub (Vitor, Igor)]].
 - Lovable montou a base funcional do app em ~9 créditos, apoiado em documentação robusta — origem [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]].
+
+## Atualizações — jul/2026
+- 🔁 **GitHub Projects (issues + Kanban) vira o backlog oficial e a fonte da verdade** das tarefas de dev; três templates de issue (*bug*, *funcionalidade*, *UX/texto/layout*); **Claude Code integrado por CLI ao GitHub** opera backlog e código pelo terminal — [[G041 - GitHub Projects como backlog oficial, operado por Claude Code via CLI]] (evolui o board do [[G029 - Vibe Kanban + IA no fluxo de desenvolvimento]]) — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]]. Igor promovido a admin do repo/projeto.
+- **WhatsApp como inbox de captura**; skill de IA (ex.: `/requisitos`) processa o `.zip` da conversa → issues, com controle estrito de *timestamps* e verificação anti-duplicata no repositório — [[G042 - WhatsApp como inbox; triagem por IA via export .zip]] — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
+- **Refinamento de requisitos como "entrevista":** a IA questiona ambiguidades (layout, localização de botões, conflitos) antes de efetivar a issue, mitigando inconsistências na origem — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
+- **Captura de voz com mapeamento de rota:** anexar a rota/URL da página à transcrição (Whisper/open-source) dispensa *screenshots* e contextualiza o reporte — base do captador flutuante no app (ver [[Produto]]) — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
+- **Padronização:** ao gerar/atualizar código, condicionar a IA a checar o Vault/`CLAUDE.md` para manter glossário técnico e padrões harmonizados — origem [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]].
 
 ## Documentação do MVP — 17/06/2026 (E6 + D0xx)
 > origem: "Documentação do MVP 17/06 — E6 + D0xx" · detalhe canônico em `/docs` E6 (Blocos 6–7) e decisões D0xx.

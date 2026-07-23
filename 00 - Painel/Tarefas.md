@@ -2,7 +2,7 @@
 tipo: tracker
 titulo: Tarefas
 criado: 2026-07-01
-atualizado: 2026-07-05
+atualizado: 2026-07-23
 ---
 
 # Tarefas
@@ -67,3 +67,7 @@ atualizado: 2026-07-05
 | Ajustes finais do V0 (OCR + vínculo relatório cirúrgico ↔ mapa) | Igor (orient. Clarissa/Vitor) | 2026-06-25 | fazendo | Tecnologia | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-06-17 |
 | Lançar o MVP V0 ao grupo alfa (~4–5 médicos) | Vitor | 2026-06-29 | fazendo | Produto | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-06-17 |
 | Assinar NDAs com os médicos testadores | Vitor | — | aberta | Jurídico | [[2026-06-17 - Lançamento do MVP V0 e ameaça MDOCTORS (Paulo, Vitor, Clarissa)]] | 2026-07-05 |
+| Adicionar Igor como Admin do repositório/projeto GitHub | Vitor | — | feita | Tecnologia | [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]] | 2026-07-23 |
+| Criar skill de automação de backlog (`/requisitos`: zip WhatsApp → issues, anti-duplicata) | Vitor | — | fazendo | Tecnologia | [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]] | 2026-07-23 |
+| Captador de áudio flutuante (microfone em todas as páginas, com rota mapeada) | Igor | — | aberta | Produto | [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]] | 2026-07-23 |
+| Dar granularidade à exportação do workspace (selecionar só texto / só imagem) | Igor | — | aberta | Produto | [[2026-07-23 - Automação de backlog com IA e exportação de prontuários (Vitor, Igor)]] | 2026-07-23 |
